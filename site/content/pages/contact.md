@@ -6,7 +6,7 @@ url = "/contact"
 
 ## Please fill out the form below
 
-Let us know when you'd like to book a reservation and we'll contact you within 30 min to confirm or find another time.
+Let us know when you'd like to book a reservation and we'll contact you within 30 min to confirm or find another time. Test line of copy.
 
 <form name="reservation">
   <input type="text" placeholder="Your Name" name="name">
